@@ -11,7 +11,7 @@ This project is a web application designed to help users manage their budgets ef
 ![Income](income.png.png)
 
 ### All Entries
-![All Entries](all_entries.png.png)
+![All Entries](all.png.png)
 
 ## Features
 
