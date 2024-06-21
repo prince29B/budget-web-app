@@ -2,6 +2,16 @@
 
 ## Overview
 This project is a web application designed to help users manage their budgets efficiently. Developed using HTML, CSS, and JavaScript, it offers a user-friendly interface for tracking income and expenses. The application includes features for adding, editing, and deleting budget entries and uses local storage to ensure data persistence. Additionally, it leverages the Canvas API to generate dynamic pie charts, providing a visual representation of the user's financial data in real-time.
+## Demo
+
+### Expenses
+![Expenses](expenses.png.png)
+
+### Income
+![Income](income.png.png)
+
+### All Entries
+![All Entries](all_entries.png.png)
 
 ## Features
 
