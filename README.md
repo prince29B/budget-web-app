@@ -39,20 +39,4 @@ To run this application locally, follow these steps:
     open index.html
     ```
 
-## Future Enhancements
-- **Authentication**: Adding user authentication to allow multiple users to have personalized budgets.
-- **Export Data**: Enable exporting budget data to formats like CSV or PDF.
-- **Mobile Responsiveness**: Improve the design to be fully responsive on mobile devices.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-Special thanks to all the contributors and users who have provided feedback and suggestions for improving this application.
-
----
-
-Feel free to customize this README file as per your specific needs or preferences.
